@@ -88,3 +88,7 @@ Une fois les migrations terminées et que vous disposez de la structure de base 
 ```bash
 php artisan db:seed ArticleSeeder
 ```
+### 11. Development server
+```bash
+php artisan server --port=8000
+```
